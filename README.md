@@ -20,6 +20,7 @@ Technologies Used
 - Open the code folder
 - After opening in vs code it will automatically pop up message to get the desired dependencies just install it
 - Run the main.dart file in debugging mode on emulator or any other device
+- You can directly change the code and also push it on github from the terminal.
 
 # App Design
 - ![Design-1](https://github.com/Pratham208/Hack-a-thon/blob/master/assets/Design-1.png)
