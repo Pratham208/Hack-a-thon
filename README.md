@@ -18,7 +18,7 @@ Technologies Used
 - Download directly the code in zip mode and unzip it
 - Open VS Code or any other IDE
 - Open the code folder
-- After openinf in vs code it will automatically pop up message to get the desired dependencies just install it
+- After opening in vs code it will automatically pop up message to get the desired dependencies just install it
 - Run the main.dart file in debugging mode on emulator or any other device
 
 # App Design
