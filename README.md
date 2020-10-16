@@ -14,6 +14,13 @@ Technologies Used
 - Adobe XD - UI/UX Designing
 - Flutter/Dart - FrontEnd Development of Application
 
+## Steps to Install on Local Machine
+- Download directly the code in zip mode and unzip it
+- Open VS Code or any other IDE
+- Open the code folder
+- After openinf in vs code it will automatically pop up message to get the desired dependencies just install it
+- Run the main.dart file in debugging mode on emulator or any other device
+
 # App Design
 - ![Design-1](https://github.com/Pratham208/Hack-a-thon/blob/master/assets/Design-1.png)
 
