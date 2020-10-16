@@ -14,7 +14,7 @@ Technologies Used
 - Adobe XD - UI/UX Designing
 - Flutter/Dart - FrontEnd Development of Application
 
-## Steps to Install on Local Machine
+## Contribution Guidelines
 - Download directly the code in zip mode and unzip it
 - Open VS Code or any other IDE
 - Open the code folder
